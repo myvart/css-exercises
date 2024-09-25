@@ -1,0 +1,15 @@
+.first-type-button,
+.second-type-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.first-type-button {
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+.second-type-button {
+    background-color: yellow;
+}
